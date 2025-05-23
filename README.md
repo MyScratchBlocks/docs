@@ -23,3 +23,5 @@ layout:
 ### WIP
 
 This either means that the MyScratchBlocks docs are still in progress, or MyScratchBlocks is still work in progress.
+
+Work In Progress, Stay Tuned!
